@@ -5,7 +5,12 @@
 #### I have little tried myself in gameDev, and I have made attemp to solve test for vacancy Playable Ads Dev Trainee in company FreePlay. Unfortunately I didn't deal whole test.
 #### Today I already able to implement layout from figma to use CSS, HMTL, JS. Also I can create not too complicated application to use JavaScript.
 
-## Here is couple links my work:
+ #### Я начинающий front-end разработчик. В данный момент я учусь в Rolling Scopes School.Вот [Школа Роллинг Скоупс](https://github.com/warp5t/tasks ) краткое описание школы.Первый этап я уже прошел.
+#### Ищу работу по специальности front-end разработчик.
+#### Пробовал себя в GameDev, и предпринял попытку пройти тест на вакансию стажера по разработке игр в компании FreePlay. К сожалению, я не прошел весь тест целиком.
+#### Сегодня могу ужу реализовать верстку из figma с использованием CSS, HMTL, JS. Также спосбен создать не слишком сложное приложение используя JavaScript.
+
+## Here is links my work:
 - [CSS Accordeon](https://github.com/DrDiman/CSS-Bayan-task)
     - [my solution](https://warp5t.github.io/cssBayan/cssBayan/index.html)
 
@@ -18,4 +23,17 @@
 - [HTML Builder](https://github.com/rolling-scopes-school/tasks/tree/master/stage1/modules/html-builder)
     - [my solution](https://github.com/warp5t/HTML-builder)
 
+- [Museum Layout](https://warp5t.github.io/museum.github.io/)
 
+- [petStory Layout](https://warp5t.github.io/warp5t.petStory.github.io/)
+
+- [California Layout](https://warp5t.github.io/california.github.io/)
+
+### I started learnig JS three years ago and at some stage I realized that I could to move object on the dispaly. Here is couple links my work engine elements:
+### Я начал изучать JS три года назад и на каком-то этапе понял, что могу перемещать объект на дисплее. Вот пара ссылок на элементы игрововго движка:
+
+- [element_0](https://warp5t.github.io/warp5t.element_engine_2.github.io/)
+- [element_1](https://warp5t.github.io/warp5t.element_engine_1.github.io/)
+- [element_2](https://warp5t.github.io/warp5t.element_engine_3.github.io/)
+- [element_3](https://warp5t.github.io/warp5t.element_engine_4.github.io/)
+- [element_4](https://warp5t.github.io/warp5t.element_engine_5.github.io/)
