@@ -29,8 +29,8 @@
 
 - [California Layout](https://warp5t.github.io/california.github.io/)
 
-### I started learnig JS three years ago and at some stage I realized that I could to move object on the dispaly. Here is couple links my work engine elements:
-### Я начал изучать JS три года назад и на каком-то этапе понял, что могу перемещать объект на дисплее. Вот пара ссылок на элементы игрововго движка:
+### I started learnig JS three years ago and at some stage I realized that I could to move objects on the dispaly. Here is couple links my work engine elements:
+### Я начал изучать JS три года назад и на каком-то этапе понял, что могу перемещать объекты на дисплее. Вот пара ссылок на элементы игрововго движка:
 
 - [element_0](https://warp5t.github.io/warp5t.element_engine_2.github.io/)
 - [element_1](https://warp5t.github.io/warp5t.element_engine_1.github.io/)
