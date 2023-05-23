@@ -24,7 +24,7 @@
     - [my solution](https://github.com/warp5t/HTML-builder)
 
 - [Minesweeper](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/minesweeper/README.md)
-    -[my solution](https://rolling-scopes-school.github.io/warp5t-JSFE2023Q1/minesweeper/)
+    - [my solution](https://rolling-scopes-school.github.io/warp5t-JSFE2023Q1/minesweeper/)
 
 - [Museum Layout](https://warp5t.github.io/museum.github.io/)
 
