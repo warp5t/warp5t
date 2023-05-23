@@ -8,7 +8,7 @@
  #### Я начинающий front-end разработчик. В данный момент я учусь в Rolling Scopes School.Вот [Школа Роллинг Скоупс](https://github.com/warp5t/tasks ) краткое описание школы.Первый этап я уже прошел.
 #### Ищу работу по специальности front-end разработчик.
 #### Пробовал себя в GameDev, и предпринял попытку пройти тест на вакансию стажера по разработке игр в компании FreePlay. К сожалению, я не прошел весь тест целиком.
-#### Сегодня могу ужу реализовать верстку из figma с использованием CSS, HMTL, JS. Также спосбен создать не слишком сложное приложение используя JavaScript.
+#### Сегодня могу уже реализовать верстку из figma с использованием CSS, HMTL, JS. Также способен создать не слишком сложное приложение используя JavaScript.
 
 ## Here is links my work:
 - [CSS Accordeon](https://github.com/DrDiman/CSS-Bayan-task)
@@ -22,6 +22,9 @@
 
 - [HTML Builder](https://github.com/rolling-scopes-school/tasks/tree/master/stage1/modules/html-builder)
     - [my solution](https://github.com/warp5t/HTML-builder)
+
+- [Minesweeper](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/minesweeper/README.md)
+    -[my solution](https://rolling-scopes-school.github.io/warp5t-JSFE2023Q1/minesweeper/)
 
 - [Museum Layout](https://warp5t.github.io/museum.github.io/)
 
