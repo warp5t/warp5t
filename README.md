@@ -1,13 +1,11 @@
 ### Hi there 👋
 
-#### I'm begginer front-end developer. At the moment I'm stydiyng at Rolling Scopes School.Here is the [Rolling Scopes School](https://github.com/warp5t/tasks) briefly description school.The first stage I have taken.
-#### I am searching job by speciality front-end developer.
-#### I have little tried myself in gameDev, and I have made attemp to solve test for vacancy Playable Ads Dev Trainee in company FreePlay. Unfortunately I didn't deal whole test.
-#### Today I already able to implement layout from figma to use CSS, HMTL, JS. Also I can create not too complicated application to use JavaScript.
+#### I'm a beginner front-end developer. At the moment I'm studiyng at Rolling Scopes School.Here is the [Rolling Scopes School](https://github.com/warp5t/tasks) briefly description school.The first stage I have taken.
+#### I am searching job by specialty front-end developer.
+#### Today I am already able to implement layout from figma to use CSS, HMTL, JS. Also I can create not too complicated application to use JavaScript.
 
  #### Я начинающий front-end разработчик. В данный момент я учусь в Rolling Scopes School.Вот [Школа Роллинг Скоупс](https://github.com/warp5t/tasks ) краткое описание школы.Первый этап я уже прошел.
 #### Ищу работу по специальности front-end разработчик.
-#### Пробовал себя в GameDev, и предпринял попытку пройти тест на вакансию стажера по разработке игр в компании FreePlay. К сожалению, я не прошел весь тест целиком.
 #### Сегодня могу уже реализовать верстку из figma с использованием CSS, HMTL, JS. Также способен создать не слишком сложное приложение используя JavaScript.
 
 ## Here is links my work:
