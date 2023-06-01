@@ -8,7 +8,7 @@
 #### Ищу работу по специальности front-end разработчик.
 #### Сегодня могу уже реализовать верстку из figma с использованием CSS, HMTL, JS. Также способен создать не слишком сложное приложение используя JavaScript.
 
-## Here is links my work:
+## Here are links my work:
 - [CSS Accordeon](https://github.com/DrDiman/CSS-Bayan-task)
     - [my solution](https://warp5t.github.io/cssBayan/cssBayan/index.html)
 
