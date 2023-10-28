@@ -9,6 +9,10 @@
 #### Сегодня могу уже реализовать верстку из figma с использованием CSS, HMTL, JS. Также способен создать не слишком сложное приложение используя JavaScript.
 
 ## Here are links my work:
+- [async-race](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/async-race.md)
+    - [my solution](https://github.com/warp5t/async-race)
+    - [bundle](https://github.com/warp5t/async-race-bundle)
+
 - [CSS Accordeon](https://github.com/DrDiman/CSS-Bayan-task)
     - [my solution](https://warp5t.github.io/cssBayan/cssBayan/index.html)
 
