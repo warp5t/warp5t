@@ -39,7 +39,8 @@ I am searching job by specialty front-end developer.
 
 - [California Layout](https://warp5t.github.io/california.github.io/)
 
- Here are a couple links to my work game engine elements. This is done just for fun and maybe it would be interesting:
+ Here are a couple links to my work game engine elements. This is done just for fun and maybe it would be interesting.
+ 
  Вот пара ссылок на элементы игрововго движка. Это сделано просто для развлечения и может быть будет интересно:
 
 - [element_0](https://warp5t.github.io/warp5t.element_engine_2.github.io/)
