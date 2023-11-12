@@ -1,11 +1,13 @@
 Hi there 👋
 
-I'm a beginner front-end developer. At the moment I'm studiyng at Rolling Scopes School.Here is the briefly description school.
+I'm a beginner front-end developer. At the moment I'm studiyng at Rolling Scopes School.Here is the briefly description school:
+
 [Rolling Scopes School](https://github.com/warp5t/tasks) 
 
 I am searching job by specialty front-end developer.
 
  Я начинающий front-end разработчик. В данный момент я учусь в Rolling Scopes School. Вот краткое описание школы:
+
 [Rolling Scopes School](https://github.com/warp5t/tasks) 
  
  Ищу работу по специальности front-end разработчик.
