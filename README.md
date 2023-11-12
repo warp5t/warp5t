@@ -2,11 +2,10 @@
 
 #### I'm a beginner front-end developer. At the moment I'm studiyng at Rolling Scopes School.Here is the [Rolling Scopes School](https://github.com/warp5t/tasks) briefly description school.The first stage I have taken.
 #### I am searching job by specialty front-end developer.
-#### Today I am already able to implement layout from figma to use CSS, HMTL, JS. Also I can create not too complicated application to use JavaScript.
 
- #### Я начинающий front-end разработчик. В данный момент я учусь в Rolling Scopes School.Вот [Школа Роллинг Скоупс](https://github.com/warp5t/tasks ) краткое описание школы.Первый этап я уже прошел.
+ #### Я начинающий front-end разработчик. В данный момент я учусь в Rolling Scopes School.Вот [Школа Роллинг Скоупс](https://github.com/warp5t/tasks) краткое описание школы.
 #### Ищу работу по специальности front-end разработчик.
-#### Сегодня могу уже реализовать верстку из figma с использованием CSS, HMTL, JS. Также способен создать не слишком сложное приложение используя JavaScript.
+
 
 ## Here are links my work:
 - [async-race](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/async-race.md)
@@ -34,8 +33,8 @@
 
 - [California Layout](https://warp5t.github.io/california.github.io/)
 
-### I started learnig JS three years ago and at some stage I realized that I could to move objects on the dispaly. Here is couple links my work engine elements:
-### Я начал изучать JS три года назад и на каком-то этапе понял, что могу перемещать объекты на дисплее. Вот пара ссылок на элементы игрововго движка:
+### Here are a couple links to my work game engine elements. This is done just for fun and maybe it would be interesting:
+###  Вот пара ссылок на элементы игрововго движка. Это сделано просто для развлечения и может быть будет интересно:
 
 - [element_0](https://warp5t.github.io/warp5t.element_engine_2.github.io/)
 - [element_1](https://warp5t.github.io/warp5t.element_engine_1.github.io/)
