@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi there 👋
 
-#### I'm a beginner front-end developer. At the moment I'm studiyng at Rolling Scopes School.Here is the briefly description school.The first stage I have taken.
+I'm a beginner front-end developer. At the moment I'm studiyng at Rolling Scopes School.Here is the briefly description school.The first stage I have taken.
 [Rolling Scopes School](https://github.com/warp5t/tasks) 
 
-#### I am searching job by specialty front-end developer.
+I am searching job by specialty front-end developer.
 
- #### Я начинающий front-end разработчик. В данный момент я учусь в Rolling Scopes School.Вот краткое описание школы.
+ Я начинающий front-end разработчик. В данный момент я учусь в Rolling Scopes School.Вот краткое описание школы.
  [Школа Роллинг Скоупс](https://github.com/warp5t/tasks) 
-#### Ищу работу по специальности front-end разработчик.
+ Ищу работу по специальности front-end разработчик.
 
 
-## Here are links my work:
+ Here are links my work:
 - [async-race](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/async-race.md)
     - [my solution](https://github.com/warp5t/async-race)
     - [bundle](https://github.com/warp5t/async-race-bundle)
@@ -36,8 +36,8 @@
 
 - [California Layout](https://warp5t.github.io/california.github.io/)
 
-### Here are a couple links to my work game engine elements. This is done just for fun and maybe it would be interesting:
-###  Вот пара ссылок на элементы игрововго движка. Это сделано просто для развлечения и может быть будет интересно:
+ Here are a couple links to my work game engine elements. This is done just for fun and maybe it would be interesting:
+ Вот пара ссылок на элементы игрововго движка. Это сделано просто для развлечения и может быть будет интересно:
 
 - [element_0](https://warp5t.github.io/warp5t.element_engine_2.github.io/)
 - [element_1](https://warp5t.github.io/warp5t.element_engine_1.github.io/)
