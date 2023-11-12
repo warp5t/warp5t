@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### I'm a beginner front-end developer. At the moment I'm studiyng at Rolling Scopes School.Here is the briefly description school.The first stage I have taken.
-[Rolling Scopes School] (https://github.com/warp5t/tasks) 
+[Rolling Scopes School](https://github.com/warp5t/tasks) 
 
 #### I am searching job by specialty front-end developer.
 
