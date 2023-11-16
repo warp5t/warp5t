@@ -14,6 +14,9 @@ I am searching job by specialty front-end developer.
 
 
  Here are links my work:
+- [minesweeper](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/minesweeper/README.md)
+   - [my solution](https://warp5t.github.io/minesweeper.github.io/)
+ 
 - [async-race](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/async-race.md)
     - [my solution](https://github.com/warp5t/async-race)
     - [bundle](https://github.com/warp5t/async-race-bundle)
