@@ -33,7 +33,7 @@ I am searching job by specialty front-end developer.
 - [Shelter Layout](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/shelter/shelter.md)
    - [solution](https://rolling-scopes-school.github.io/warp5t-JSFE2023Q1/shelter/)
 
-- [Museum Layout](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/museum/museum.md)
+- [Museum Layout](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/museum/museum-dom.md)
    - [solution](https://warp5t.github.io/museum.github.io/)
  
 - [PetStory Layuot](https://github.com/rolling-scopes-school/tasks/blob/master/stage1/stream2/online-zoo/README.md)
