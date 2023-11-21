@@ -15,27 +15,29 @@ I am searching job by specialty front-end developer.
 
  Here are links my work:
 - [minesweeper](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/minesweeper/README.md)
-   - [my solution](https://warp5t.github.io/minesweeper.github.io/)
+   - [solution](https://warp5t.github.io/minesweeper.github.io/)
  
 - [async-race](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/async-race.md)
-    - [my solution](https://github.com/warp5t/async-race)
+    - [solution](https://github.com/warp5t/async-race)
     - [bundle](https://github.com/warp5t/async-race-bundle)
 
 - [CSS Accordeon](https://github.com/DrDiman/CSS-Bayan-task)
-    - [my solution](https://warp5t.github.io/cssBayan/cssBayan/index.html)
-
-- [Layout task](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/shelter/shelter.md)
-    - [my solution](https://rolling-scopes-school.github.io/warp5t-JSFE2023Q1/shelter/)
+    - [solution](https://warp5t.github.io/cssBayan/cssBayan/index.html)
 
 - [virtual keyboard](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/virtual-keyboard/virtual-keyboard-en.md)
-    - [my solution](https://github.com/warp5t/virtual-keyboard/pull/1)
+    - [solution](https://github.com/warp5t/virtual-keyboard/pull/1)
 
 - [HTML Builder](https://github.com/rolling-scopes-school/tasks/tree/master/stage1/modules/html-builder)
-    - [my solution](https://github.com/warp5t/HTML-builder)
+    - [solution](https://github.com/warp5t/HTML-builder)
 
-- [Museum Layout](https://warp5t.github.io/museum.github.io/)
+- [Shelter Layout](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/shelter/shelter.md)
+   - [solution](https://rolling-scopes-school.github.io/warp5t-JSFE2023Q1/shelter/)
 
-- [petStory Layout](https://warp5t.github.io/warp5t.petStory.github.io/)
+- [Museum Layout](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/museum/museum.md)
+   - [solution](https://warp5t.github.io/museum.github.io/)
+ 
+-[PetStory Layuot](https://github.com/rolling-scopes-school/tasks/blob/master/stage1/stream2/online-zoo/README.md)
+   - [solution](https://warp5t.github.io/warp5t.petStory.github.io/)
 
 - [California Layout](https://warp5t.github.io/california.github.io/)
 
