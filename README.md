@@ -33,9 +33,6 @@ I am searching job by specialty front-end developer.
 - [HTML Builder](https://github.com/rolling-scopes-school/tasks/tree/master/stage1/modules/html-builder)
     - [my solution](https://github.com/warp5t/HTML-builder)
 
-- [Minesweeper](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/minesweeper/README.md)
-    - [my solution](https://rolling-scopes-school.github.io/warp5t-JSFE2023Q1/minesweeper/)
-
 - [Museum Layout](https://warp5t.github.io/museum.github.io/)
 
 - [petStory Layout](https://warp5t.github.io/warp5t.petStory.github.io/)
