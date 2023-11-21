@@ -36,7 +36,7 @@ I am searching job by specialty front-end developer.
 - [Museum Layout](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/museum/museum.md)
    - [solution](https://warp5t.github.io/museum.github.io/)
  
--[PetStory Layuot](https://github.com/rolling-scopes-school/tasks/blob/master/stage1/stream2/online-zoo/README.md)
+- [PetStory Layuot](https://github.com/rolling-scopes-school/tasks/blob/master/stage1/stream2/online-zoo/README.md)
    - [solution](https://warp5t.github.io/warp5t.petStory.github.io/)
 
 - [California Layout](https://warp5t.github.io/california.github.io/)
