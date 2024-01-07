@@ -31,7 +31,7 @@ I am searching job by specialty front-end developer.
     - [solution](https://github.com/warp5t/HTML-builder)
 
 - [Shelter Layout](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/shelter/shelter.md)
-   - [solution](https://rolling-scopes-school.github.io/warp5t-JSFE2023Q1/shelter/)
+   - [solution](https://warp5t.github.io/shelter.github.io/)
 
 - [Museum Layout](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/museum/museum-dom.md)
    - [solution](https://warp5t.github.io/museum.github.io/)
