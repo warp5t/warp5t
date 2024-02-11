@@ -29,8 +29,8 @@ I am searching job by specialty front-end developer.
  
 ![logo-on-white-bg](https://github.com/warp5t/warp5t/assets/63461102/ba24eedb-917a-49c2-8141-54d415f53e48)
 ![ajax](https://github.com/warp5t/warp5t/assets/63461102/e28911af-78bb-4b76-8bb6-cdbaab7e8d39)
-![rest-api](https://github.com/warp5t/warp5t/assets/63461102/3dc375bf-0d3a-434b-ad7d-db18a7f42fab)
-![sass](https://github.com/warp5t/warp5t/assets/63461102/80fd5551-cce0-4d40-834e-819a7c9f8f39)
+![rest-api-blue-logo-22098](https://github.com/warp5t/warp5t/assets/63461102/2b1a5990-fcf0-4fd8-a3b8-85186bdf05ad)
+![sass-logo-7700](https://github.com/warp5t/warp5t/assets/63461102/fc675fee-5dc4-4e8a-a6b4-f5cf2e5427ff)
 ![eslint](https://github.com/warp5t/warp5t/assets/63461102/1075a846-c512-475f-bb04-ba33f2a00fef)
 ![html-5](https://github.com/warp5t/warp5t/assets/63461102/bf7b882c-53d0-4091-b8c8-4daca8a5ea6a)
 ![css-3](https://github.com/warp5t/warp5t/assets/63461102/04870c92-3711-4b7a-ba57-380252b37060)
