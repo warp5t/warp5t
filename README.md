@@ -28,6 +28,7 @@ I am searching job by specialty front-end developer.
  
 ![logo-on-white-bg](https://github.com/warp5t/warp5t/assets/63461102/ba24eedb-917a-49c2-8141-54d415f53e48)
 \+ [solution](https://github.com/warp5t/async-race)
+
 \+ [bundle](https://github.com/warp5t/async-race-bundle)
 
 ---
