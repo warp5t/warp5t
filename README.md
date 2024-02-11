@@ -13,17 +13,24 @@ I am searching job by specialty front-end developer.
  Ищу работу по специальности front-end разработчик.
 
 
- Here are links my work:
-- [minesweeper](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/minesweeper/README.md)
+ Here are my works:
+ ---
+**[Minesweeper](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/minesweeper/README.md)**
 
 ![eslint](https://github.com/warp5t/warp5t/assets/63461102/1075a846-c512-475f-bb04-ba33f2a00fef)
 ![java-script](https://github.com/warp5t/warp5t/assets/63461102/d6e6c8ec-d21b-4f17-9375-2e14acb53da0)
-   - [solution](https://warp5t.github.io/minesweeper.github.io/)
+![html-5](https://github.com/warp5t/warp5t/assets/63461102/ceb06e5f-2470-4e2b-9dd1-858294307f84)
+![css-3](https://github.com/warp5t/warp5t/assets/63461102/d276eba0-a0d3-49c4-85ea-4801ed2fa2f4)
+\+ [solution](https://warp5t.github.io/minesweeper.github.io/)
 
-- [async-race](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/async-race.md)
-    - [solution](https://github.com/warp5t/async-race)
-    - [bundle](https://github.com/warp5t/async-race-bundle)
+---
+**[async-race](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/async-race.md)**
+ 
+![logo-on-white-bg](https://github.com/warp5t/warp5t/assets/63461102/9b79e4fb-3f81-4350-aa31-4bd9183c66c4)
+\+ [solution](https://github.com/warp5t/async-race)
+\+ [bundle](https://github.com/warp5t/async-race-bundle)
 
+---
 - [CSS Accordeon](https://github.com/DrDiman/CSS-Bayan-task)
     - [solution](https://warp5t.github.io/cssBayan/cssBayan/index.html)
 
@@ -56,9 +63,4 @@ I am searching job by specialty front-end developer.
 
 # my telegramm @warp5t
 
----
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1][![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][2][![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]
----
-[1]: http://www.github.com
-[2]: https://www.linkedin.com
-[3]: https://www.facebook.com
+
