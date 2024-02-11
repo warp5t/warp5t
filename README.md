@@ -26,7 +26,7 @@ I am searching job by specialty front-end developer.
 ---
 **[async-race](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/async-race.md)**
  
-![logo-on-white-bg](https://github.com/warp5t/warp5t/assets/63461102/9b79e4fb-3f81-4350-aa31-4bd9183c66c4)
+![logo-on-white-bg](https://github.com/warp5t/warp5t/assets/63461102/ba24eedb-917a-49c2-8141-54d415f53e48)
 \+ [solution](https://github.com/warp5t/async-race)
 \+ [bundle](https://github.com/warp5t/async-race-bundle)
 
