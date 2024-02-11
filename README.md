@@ -16,7 +16,6 @@ I am searching job by specialty front-end developer.
  Here are links my work:
 - [minesweeper](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/minesweeper/README.md)
 
-- 
 ![eslint](https://github.com/warp5t/warp5t/assets/63461102/1075a846-c512-475f-bb04-ba33f2a00fef)
 ![java-script](https://github.com/warp5t/warp5t/assets/63461102/d6e6c8ec-d21b-4f17-9375-2e14acb53da0)
    - [solution](https://warp5t.github.io/minesweeper.github.io/)
