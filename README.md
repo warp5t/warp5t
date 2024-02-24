@@ -15,6 +15,12 @@ I am searching job by specialty front-end developer.
 
  Here are my works:
  ---
+ **[Basic-JS](https://github.com/warp5t/basic-js?tab=readme-ov-file)**
+ 
+![git](https://github.com/warp5t/warp5t/assets/63461102/d499289d-e68f-4210-939a-7874e5b42b77)
+![java-script](https://github.com/warp5t/warp5t/assets/63461102/d6e6c8ec-d21b-4f17-9375-2e14acb53da0)
+
+ ---
 **[Core JS 101](https://github.com/mikhama/core-js-101)**
 
 ![git](https://github.com/warp5t/warp5t/assets/63461102/d499289d-e68f-4210-939a-7874e5b42b77)
