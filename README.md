@@ -95,7 +95,7 @@ It was happened while I was watching some stuff on this topic [JavaScript Events
 \+ [solution](https://github.com/warp5t/HTML-builder)
 
 ---
-- [Shelter Layout](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/shelter/shelter.md)
+- [Shelter Layout](https://warp5t.github.io/shelter_old.github.io/)
 
 ![git](https://github.com/warp5t/warp5t/assets/63461102/d499289d-e68f-4210-939a-7874e5b42b77)
 ![html-5](https://github.com/warp5t/warp5t/assets/63461102/bf019a5e-8052-4c8b-a1c6-6a9ca6120d72)
