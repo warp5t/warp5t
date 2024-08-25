@@ -23,7 +23,7 @@ I am searching job by specialty front-end developer.
 ![html-5](https://github.com/warp5t/warp5t/assets/63461102/bf7b882c-53d0-4091-b8c8-4daca8a5ea6a)
 
 This is just a sudden wish to write anything about JS Events.
-It was happened while I was watching some stuff on this topic [JavaScript Events](https://www.youtube.com/watch?v=VJEpE6DaOYo&t=3322s&ab_channel=RollingScopesSchool)
+It happened while I was watching some stuff on this topic [JavaScript Events](https://www.youtube.com/watch?v=VJEpE6DaOYo&t=3322s&ab_channel=RollingScopesSchool)
  
  ---
  **[Basic-JS](https://github.com/warp5t/basic-js?tab=readme-ov-file)**
