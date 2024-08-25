@@ -113,16 +113,6 @@ It was happened while I was watching some stuff on this topic [JavaScript Events
 ![java-script](https://github.com/warp5t/warp5t/assets/63461102/4f0e83ac-80a1-4a61-8f97-743f24a0a519)
 
 \+ [solution](https://warp5t.github.io/museum.github.io/)
- 
- ---
-- [PetStory Layuot](https://github.com/rolling-scopes-school/tasks/blob/master/stage1/stream2/online-zoo/README.md)
-
-![git](https://github.com/warp5t/warp5t/assets/63461102/d499289d-e68f-4210-939a-7874e5b42b77)
-![html-5](https://github.com/warp5t/warp5t/assets/63461102/bf019a5e-8052-4c8b-a1c6-6a9ca6120d72)
-![css-3](https://github.com/warp5t/warp5t/assets/63461102/d9e865f8-bc5b-4f79-8430-4f089f38a64a)
-![java-script](https://github.com/warp5t/warp5t/assets/63461102/4f0e83ac-80a1-4a61-8f97-743f24a0a519)
-
-\+ [solution](https://warp5t.github.io/warp5t.petStory.github.io/)
   
 ---
 - [California Layout](https://warp5t.github.io/california.github.io/)
