@@ -142,7 +142,7 @@ It happened while I was watching some stuff on this topic [JavaScript Events](ht
 ![css-3](https://github.com/warp5t/warp5t/assets/63461102/d9e865f8-bc5b-4f79-8430-4f089f38a64a)
 ![java-script](https://github.com/warp5t/warp5t/assets/63461102/4f0e83ac-80a1-4a61-8f97-743f24a0a519)
 
-\+ [solution](https://warp5t.github.io/shelter_old.github.io/)
+\+ [solution](https://rolling-scopes-school.github.io/warp5t-JSFEPRESCHOOL2024Q2/shelter/)
 
 ---
 - [Museum Layout](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/museum/museum-dom.md)
