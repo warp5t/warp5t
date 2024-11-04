@@ -6,7 +6,8 @@ I'm a beginner front-end developer. At the moment I'm studiyng at Rolling Scopes
 
 I am searching job by specialty front-end developer.
 
-At this year I finished JS/FE Pre-School 2024.
+At this year(2024) I finished JS/FE Pre-School 2024Q2.
+**[sertificate](https://app.rs.school/certificate/9tb6uh1o)**
 
 ![Screenshot from 2024-10-28 22-12-01](https://github.com/user-attachments/assets/5bdfbaf3-f97c-4dd8-be10-caaa15a6f56a)
 
@@ -14,6 +15,9 @@ At this year I finished JS/FE Pre-School 2024.
  Я начинающий front-end разработчик. В данный момент я учусь в Rolling Scopes School. Вот краткое описание школы:
 
 [Rolling Scopes School](https://github.com/warp5t/tasks) 
+
+В этом году я получил атестат об успешном окончнании JS/FE Pre-School 2024Q2.
+**[cертификат](https://app.rs.school/certificate/9tb6uh1o)**
  
  Ищу работу по специальности front-end разработчик.
 
