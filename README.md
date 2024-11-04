@@ -6,6 +6,11 @@ I'm a beginner front-end developer. At the moment I'm studiyng at Rolling Scopes
 
 I am searching job by specialty front-end developer.
 
+At this year I finished JS/FE Pre-School 2024.
+
+![Screenshot from 2024-10-28 22-12-01](https://github.com/user-attachments/assets/5bdfbaf3-f97c-4dd8-be10-caaa15a6f56a)
+
+
  Я начинающий front-end разработчик. В данный момент я учусь в Rolling Scopes School. Вот краткое описание школы:
 
 [Rolling Scopes School](https://github.com/warp5t/tasks) 
