@@ -16,6 +16,7 @@ I am searching job by specialty front-end developer.
 
  ---
  **[audio-player](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30%23/js30.md)**
+ 
  ![git](https://github.com/user-attachments/assets/8b4fbfae-5cff-4ea1-a317-a13928ca5923)
  ![java-script](https://github.com/user-attachments/assets/0d665b45-b7ee-400c-8359-fccca0ffa85f)
  ![html-5](https://github.com/user-attachments/assets/e8e5c2d5-8411-47a5-9e5d-70de1438aece)
