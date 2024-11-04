@@ -130,7 +130,7 @@ It happened while I was watching some stuff on this topic [JavaScript Events](ht
 - [HTML Builder](https://github.com/rolling-scopes-school/tasks/tree/master/stage1/tasks/html-builder)
 
 ![git](https://github.com/user-attachments/assets/8b4fbfae-5cff-4ea1-a317-a13928ca5923)
-![nodeJS](https://github.com/warp5t/warp5t/assets/63461102/78cf8d24-5632-4178-81c1-0d2cefec72d3)
+![nodejs](https://github.com/user-attachments/assets/18f19e0d-c6a5-4676-aba8-f20ed2b90b76)
 
 \+ [solution](https://github.com/warp5t/HTML-builder)
 
