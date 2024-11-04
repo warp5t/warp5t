@@ -9,7 +9,7 @@ I am searching job by specialty front-end developer.
 At this year(2024) I finished JS/FE Pre-School 2024Q2.
 **[sertificate](https://app.rs.school/certificate/9tb6uh1o)**
 
-<img src="https://github.com/user-attachments/assets/5bdfbaf3-f97c-4dd8-be10-caaa15a6f56a" alt="sertificate" width="300">
+<img src="https://github.com/user-attachments/assets/5bdfbaf3-f97c-4dd8-be10-caaa15a6f56a" alt="sertificate" width="100%">
 <img src="https://github.com/user-attachments/assets/fcace9f2-7029-4a7c-a7b0-056568326adf" alt="sertificate" width="300">
 <img src="https://github.com/user-attachments/assets/23add58a-3140-4c51-b7b2-644e930a72fb" alt="sertificate" width="300">
 <img src="https://github.com/user-attachments/assets/39600899-bf7a-4ba4-81f8-cae09e5b112c" alt="sertificate" width="300">
