@@ -15,7 +15,26 @@ I am searching job by specialty front-end developer.
  Here are my works:
 
  ---
- **[audio-player](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30%23/js30.md)**
+**[memory-game](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30%23/js30-8.md)**
+
+ ![git](https://github.com/user-attachments/assets/19dd0841-865c-4361-9bff-7f1978bd232f)
+ ![java-script](https://github.com/user-attachments/assets/c44d462f-a3c7-482e-88d1-5231c50b6906)
+ ![css-3](https://github.com/user-attachments/assets/086a6c31-f66d-4bba-954f-8e78b7c914a2)
+
+ \+ [solution](https://rolling-scopes-school.github.io/warp5t-JSFEPRESCHOOL2024Q2/memory-game/)
+
+ ---
+**[image-gallery](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30%23/js30-5.md)**
+
+ ![git](https://github.com/user-attachments/assets/19dd0841-865c-4361-9bff-7f1978bd232f)
+ ![java-script](https://github.com/user-attachments/assets/c44d462f-a3c7-482e-88d1-5231c50b6906)
+ ![css-3](https://github.com/user-attachments/assets/086a6c31-f66d-4bba-954f-8e78b7c914a2)
+ ![api](https://github.com/user-attachments/assets/775c6df8-2891-4584-80cb-b9512193e2e5)
+
+\+ [solution](https://rolling-scopes-school.github.io/warp5t-JSFEPRESCHOOL2024Q2/image-gallery/)
+
+ ---
+ **[audio-player](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30%23/js30-2.md)**
  
  ![git](https://github.com/user-attachments/assets/8b4fbfae-5cff-4ea1-a317-a13928ca5923)
  ![java-script](https://github.com/user-attachments/assets/0d665b45-b7ee-400c-8359-fccca0ffa85f)
@@ -26,6 +45,7 @@ I am searching job by specialty front-end developer.
 
  ---
 **[wave-hand](https://warp5t.github.io/handWave.github.io/)**
+
 ![git](https://github.com/user-attachments/assets/8b4fbfae-5cff-4ea1-a317-a13928ca5923)
 ![eslint](https://github.com/warp5t/warp5t/assets/63461102/1075a846-c512-475f-bb04-ba33f2a00fef)
 ![java-script](https://github.com/warp5t/warp5t/assets/63461102/d6e6c8ec-d21b-4f17-9375-2e14acb53da0)
