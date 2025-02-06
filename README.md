@@ -29,6 +29,7 @@ At this year(2024) I finished JS/FE Pre-School 2024Q2.
 ---
 This is my first project where I've used React.
 It's forecast application.
+
 **[Bundle](https://warp5t.github.io/openWeather/)**
 
  ![git](https://github.com/user-attachments/assets/19dd0841-865c-4361-9bff-7f1978bd232f)
