@@ -27,6 +27,12 @@ At this year(2024) I finished JS/FE Pre-School 2024Q2.
  Here are my works:
 
 ---
+This is my first project where I've used React.
+It's forecast application.
+**[Bundle](https://warp5t.github.io/openWeather/)
+**(Repository)(https://github.com/warp5t/openWeather)
+
+---
 **[meme-slider](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/css-meme-slider)**
 
  ![git](https://github.com/user-attachments/assets/19dd0841-865c-4361-9bff-7f1978bd232f)
