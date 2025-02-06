@@ -30,7 +30,6 @@ At this year(2024) I finished JS/FE Pre-School 2024Q2.
 This is my first project where I've used React.
 It's forecast application.
 **[Bundle](https://warp5t.github.io/openWeather/)**
-**(Repository)(https://github.com/warp5t/openWeather)**
 
  ![git](https://github.com/user-attachments/assets/19dd0841-865c-4361-9bff-7f1978bd232f)
  ![html-5](https://github.com/user-attachments/assets/ae207402-0ab9-4e09-8e20-d45af8511906)
@@ -39,6 +38,7 @@ It's forecast application.
  ![TS](https://github.com/warp5t/warp5t/assets/63461102/a46802bb-259f-49ee-a593-cf15faaf454f)
  ![react](https://github.com/user-attachments/assets/cefae990-920c-41d7-872c-8e2c8e2144d4)
 
+**[Repository](https://github.com/warp5t/openWeather)**
 ---
 **[meme-slider](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/css-meme-slider)**
 
