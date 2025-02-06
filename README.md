@@ -37,6 +37,8 @@ It's forecast application.
  ![css-3](https://github.com/user-attachments/assets/086a6c31-f66d-4bba-954f-8e78b7c914a2)
  ![api](https://github.com/user-attachments/assets/775c6df8-2891-4584-80cb-b9512193e2e5)
  ![TS](https://github.com/warp5t/warp5t/assets/63461102/a46802bb-259f-49ee-a593-cf15faaf454f)
+ ![react](https://github.com/user-attachments/assets/3d2b196e-8b92-4c88-b858-ad116df4b048)
+
  
 ---
 **[meme-slider](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/css-meme-slider)**
