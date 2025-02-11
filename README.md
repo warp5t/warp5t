@@ -38,6 +38,7 @@ It's forecast application.
  ![api](https://github.com/user-attachments/assets/775c6df8-2891-4584-80cb-b9512193e2e5)
  ![TS](https://github.com/warp5t/warp5t/assets/63461102/a46802bb-259f-49ee-a593-cf15faaf454f)
  ![react](https://github.com/user-attachments/assets/cefae990-920c-41d7-872c-8e2c8e2144d4)
+ ![tailwind](https://github.com/user-attachments/assets/8ed688a9-cac2-45d3-990b-0776a6f25b89)
 
 **[Repository](https://github.com/warp5t/openWeather)**
 ---
@@ -46,8 +47,6 @@ It's forecast application.
  ![git](https://github.com/user-attachments/assets/19dd0841-865c-4361-9bff-7f1978bd232f)
  ![html-5](https://github.com/user-attachments/assets/ae207402-0ab9-4e09-8e20-d45af8511906)
  ![css-3](https://github.com/user-attachments/assets/086a6c31-f66d-4bba-954f-8e78b7c914a2)
- ![tailwind](https://github.com/user-attachments/assets/8ed688a9-cac2-45d3-990b-0776a6f25b89)
-
 
  \+ [solution](https://warp5t.github.io/cssMemeSlider/cssMemeSlider/index.html)
 
