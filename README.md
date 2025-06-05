@@ -35,9 +35,13 @@ Here was used React and Redux.
  ![api](https://github.com/user-attachments/assets/775c6df8-2891-4584-80cb-b9512193e2e5)
  ![TS](https://github.com/warp5t/warp5t/assets/63461102/a46802bb-259f-49ee-a593-cf15faaf454f)
  ![react](https://github.com/user-attachments/assets/cefae990-920c-41d7-872c-8e2c8e2144d4)
- ![redux](https://github.com/user-attachments/assets/ea6f422b-3d0c-4f6a-8b0a-9791d6c67cbf)
- ![vitest](https://github.com/user-attachments/assets/891c89ae-aefa-4334-8b03-e49515762150)
-<img src="https://github.com/user-attachments/assets/891c89ae-aefa-4334-8b03-e49515762150" alt="vitest" width="113" height="64">
+ <img src="https://github.com/user-attachments/assets/891c89ae-aefa-4334-8b03-e49515762150" alt="vitest" width="64" height="auto">
+ <img 
+  src="https://github.com/user-attachments/assets/ea6f422b-3d0c-4f6a-8b0a-9791d6c67cbf" 
+  alt="redux" 
+  width="64" 
+  height="auto"
+ />
 
 ---
 This is my first project where I've used React.
