@@ -37,7 +37,7 @@ Here was used React and Redux.
  ![react](https://github.com/user-attachments/assets/cefae990-920c-41d7-872c-8e2c8e2144d4)
  ![redux](https://github.com/user-attachments/assets/ea6f422b-3d0c-4f6a-8b0a-9791d6c67cbf)
  ![vitest](https://github.com/user-attachments/assets/891c89ae-aefa-4334-8b03-e49515762150)
-
+<img src="https://github.com/user-attachments/assets/891c89ae-aefa-4334-8b03-e49515762150" alt="vitest" width="200" height="100">
 
 ---
 This is my first project where I've used React.
