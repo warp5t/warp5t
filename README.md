@@ -29,7 +29,7 @@ At this year(2024) I finished JS/FE Pre-School 2024Q2.
 If you want to know little bit more about pokemons!
 Here was used React and Redux. 
 
-**[Bundle](https://react-pokemon-adk9iogg2-warp5ts-projects.vercel.app/)
+**[Bundle](https://react-pokemon-adk9iogg2-warp5ts-projects.vercel.app/)**
 
  ![git](https://github.com/user-attachments/assets/19dd0841-865c-4361-9bff-7f1978bd232f)
  ![api](https://github.com/user-attachments/assets/775c6df8-2891-4584-80cb-b9512193e2e5)
