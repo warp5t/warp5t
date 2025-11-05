@@ -25,12 +25,30 @@ At this year(2024) I finished JS/FE Pre-School 2024Q2.
  Ищу работу по специальности front-end разработчик.
 
  Here are my works:
+ 
+---
+Try your luck with quiz!
+
+- React
+- RTK
+- Redux
+- React router
+- TypeScript
+- Vitest
+ 
 ---
 If you want to know a little bit more about pokemons!
-Here were used React and Redux. 
 
 **[Bundle](https://react-pokemon-nine-psi.vercel.app/)**
+**[Repository's link](https://github.com/warp5t/react-pokemon)**
 
+ - Git
+ - API
+ - TypeScript
+ - React
+ - Redux
+ - Vitest
+   
  ![git](https://github.com/user-attachments/assets/19dd0841-865c-4361-9bff-7f1978bd232f)
  ![api](https://github.com/user-attachments/assets/775c6df8-2891-4584-80cb-b9512193e2e5)
  ![TS](https://github.com/warp5t/warp5t/assets/63461102/a46802bb-259f-49ee-a593-cf15faaf454f)
