@@ -24,18 +24,6 @@ At this year(2024) I finished JS/FE Pre-School 2024Q2.
  
  Ищу работу по специальности front-end разработчик.
 
- Here are my works:
- 
----
-Try your luck with quiz!
-
-- React
-- RTK
-- Redux
-- React router
-- TypeScript
-- Vitest
- 
 ---
 If you want to know a little bit more about pokemons!
 
