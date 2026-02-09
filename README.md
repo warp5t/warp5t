@@ -28,6 +28,7 @@ At this year(2024) I finished JS/FE Pre-School 2024Q2.
 If you want to know a little bit more about pokemons!
 
 **[Bundle](https://react-pokemon-nine-psi.vercel.app/)**
+
 **[Repository's link](https://github.com/warp5t/react-pokemon)**
 
  - Git
