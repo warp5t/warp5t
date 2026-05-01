@@ -1,12 +1,8 @@
 Hi there 👋
 
-I'm a beginner front-end developer. At the moment I'm studiyng at Rolling Scopes School.Here is the briefly description school:
-
 [Rolling Scopes School](https://github.com/warp5t/tasks) 
 
-I am searching job by specialty front-end developer.
-
-At this year(2024) I finished JS/FE Pre-School 2024Q2.
+At 2024 I finished JS/FE Pre-School 2024Q2.
 **[sertificate](https://app.rs.school/certificate/9tb6uh1o)**
 
 <img src="https://github.com/user-attachments/assets/5bdfbaf3-f97c-4dd8-be10-caaa15a6f56a" alt="sertificate" width="100%">
@@ -14,15 +10,7 @@ At this year(2024) I finished JS/FE Pre-School 2024Q2.
 <img src="https://github.com/user-attachments/assets/23add58a-3140-4c51-b7b2-644e930a72fb" alt="sertificate" width="300">
 <img src="https://github.com/user-attachments/assets/39600899-bf7a-4ba4-81f8-cae09e5b112c" alt="sertificate" width="300">
 
-
- Я начинающий front-end разработчик. В данный момент я учусь в Rolling Scopes School. Вот краткое описание школы:
-
 [Rolling Scopes School](https://github.com/warp5t/tasks) 
-
-В этом году я получил атестат об успешном окончнании JS/FE Pre-School 2024Q2.
-**[cертификат](https://app.rs.school/certificate/9tb6uh1o)**
- 
- Ищу работу по специальности front-end разработчик.
 
 ---
 If you want to know a little bit more about pokemons!
